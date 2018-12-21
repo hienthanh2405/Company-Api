@@ -1,0 +1,14 @@
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\bin\Debug\netcoreapp2.1\AssignmentCompany.Data.deps.json
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\bin\Debug\netcoreapp2.1\AssignmentCompany.Data.runtimeconfig.json
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\bin\Debug\netcoreapp2.1\AssignmentCompany.Data.runtimeconfig.dev.json
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\bin\Debug\netcoreapp2.1\AssignmentCompany.Data.dll
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\bin\Debug\netcoreapp2.1\AssignmentCompany.Data.pdb
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.csprojAssemblyReference.cache
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.csproj.CoreCompileInputs.cache
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.RazorAssemblyInfo.cache
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.RazorAssemblyInfo.cs
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.AssemblyInfoInputs.cache
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.AssemblyInfo.cs
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.RazorTargetAssemblyInfo.cache
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.dll
+D:\ThanhHien\AssignmentCompanyBackend\AssignmentCompany.Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.pdb
