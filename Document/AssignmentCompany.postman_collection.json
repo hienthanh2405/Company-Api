@@ -1,0 +1,153 @@
+{
+	"info": {
+		"_postman_id": "c6f902bd-51a2-438d-bb5f-70f9e72898e1",
+		"name": "AssignmentCompany",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Delete comapny",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nameCompany\": \"Google\",\n    \"titleCompany\": \"zzz\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:55000/api/company/0de47578-7ef7-41e3-8835-195c8413d02d",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "55000",
+					"path": [
+						"api",
+						"company",
+						"0de47578-7ef7-41e3-8835-195c8413d02d"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get company by id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:55000/api/company/0de47578-7ef7-41e3-8835-195c8413d02d",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "55000",
+					"path": [
+						"api",
+						"company",
+						"0de47578-7ef7-41e3-8835-195c8413d02d"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "create company",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"NameCompany\": \"CocaCola\",\n    \"TitleCompany\": \"CC\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:55000/api/company",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "55000",
+					"path": [
+						"api",
+						"company"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get list company",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:55000/api/company",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "55000",
+					"path": [
+						"api",
+						"company"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update company",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"NameCompany\": \"Vinaphone\",\n    \"TitleCompany\": \"VNP\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:55000/api/company/0de47578-7ef7-41e3-8835-195c8413d02d",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "55000",
+					"path": [
+						"api",
+						"company",
+						"0de47578-7ef7-41e3-8835-195c8413d02d"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
