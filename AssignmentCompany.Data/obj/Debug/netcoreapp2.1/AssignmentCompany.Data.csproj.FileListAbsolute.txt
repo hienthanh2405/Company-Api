@@ -26,3 +26,17 @@ D:\ThanhHien\AssignmentCompany\assigncompanybackend\AssignmentCompany.Data\obj\D
 D:\ThanhHien\AssignmentCompany\assigncompanybackend\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.RazorTargetAssemblyInfo.cache
 D:\ThanhHien\AssignmentCompany\assigncompanybackend\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.dll
 D:\ThanhHien\AssignmentCompany\assigncompanybackend\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.pdb
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\bin\Debug\netcoreapp2.1\AssignmentCompany.Data.deps.json
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\bin\Debug\netcoreapp2.1\AssignmentCompany.Data.runtimeconfig.json
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\bin\Debug\netcoreapp2.1\AssignmentCompany.Data.runtimeconfig.dev.json
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\bin\Debug\netcoreapp2.1\AssignmentCompany.Data.dll
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\bin\Debug\netcoreapp2.1\AssignmentCompany.Data.pdb
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.csprojAssemblyReference.cache
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.csproj.CoreCompileInputs.cache
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.RazorAssemblyInfo.cache
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.RazorAssemblyInfo.cs
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.AssemblyInfoInputs.cache
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.AssemblyInfo.cs
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.RazorTargetAssemblyInfo.cache
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.dll
+D:\ThanhHien\AssignmentCompany\Company-Api\AssignmentCompany.Data\obj\Debug\netcoreapp2.1\AssignmentCompany.Data.pdb

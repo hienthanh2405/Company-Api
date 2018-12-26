@@ -12945,11 +12945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ThanhHien\\AssignmentCompany\\assigncompanybackend\\AssignmentCompany.Api\\AssignmentCompany.Api.csproj",
+      "projectUniqueName": "D:\\ThanhHien\\AssignmentCompany\\Company-Api\\AssignmentCompany.Api\\AssignmentCompany.Api.csproj",
       "projectName": "AssignmentCompany.Api",
-      "projectPath": "D:\\ThanhHien\\AssignmentCompany\\assigncompanybackend\\AssignmentCompany.Api\\AssignmentCompany.Api.csproj",
+      "projectPath": "D:\\ThanhHien\\AssignmentCompany\\Company-Api\\AssignmentCompany.Api\\AssignmentCompany.Api.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\ThanhHien\\AssignmentCompany\\assigncompanybackend\\AssignmentCompany.Api\\obj\\",
+      "outputPath": "D:\\ThanhHien\\AssignmentCompany\\Company-Api\\AssignmentCompany.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12968,11 +12968,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\ThanhHien\\AssignmentCompany\\assigncompanybackend\\AssignmentCompany.Data\\AssignmentCompany.Data.csproj": {
-              "projectPath": "D:\\ThanhHien\\AssignmentCompany\\assigncompanybackend\\AssignmentCompany.Data\\AssignmentCompany.Data.csproj"
+            "D:\\ThanhHien\\AssignmentCompany\\Company-Api\\AssignmentCompany.Data\\AssignmentCompany.Data.csproj": {
+              "projectPath": "D:\\ThanhHien\\AssignmentCompany\\Company-Api\\AssignmentCompany.Data\\AssignmentCompany.Data.csproj"
             },
-            "D:\\ThanhHien\\AssignmentCompany\\assigncompanybackend\\AssignmentCompany.Repo\\AssignmentCompany.Repo.csproj": {
-              "projectPath": "D:\\ThanhHien\\AssignmentCompany\\assigncompanybackend\\AssignmentCompany.Repo\\AssignmentCompany.Repo.csproj"
+            "D:\\ThanhHien\\AssignmentCompany\\Company-Api\\AssignmentCompany.Repo\\AssignmentCompany.Repo.csproj": {
+              "projectPath": "D:\\ThanhHien\\AssignmentCompany\\Company-Api\\AssignmentCompany.Repo\\AssignmentCompany.Repo.csproj"
             }
           }
         }
